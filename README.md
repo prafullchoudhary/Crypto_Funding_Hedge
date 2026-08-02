@@ -7,8 +7,11 @@ A comprehensive 507-day backtest was executed across real-world historical marke
 
 Performance Breakdown
 ========================================================================
+
 Trade Summary Report: BTCUSD / BCHUSD Funding-Hedge Strategy
+
 ========================================================================
+
 Backtest Period           : 2025-01-10 20:30:00 to 2026-06-01 20:30:00
 
 Backtest Length (Days)    : 507.0 Days
